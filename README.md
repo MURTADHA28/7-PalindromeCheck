@@ -1,1 +1,1 @@
-# PalindromeCheck
+#OUTPUT : true
