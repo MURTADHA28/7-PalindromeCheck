@@ -23,3 +23,5 @@ function isPalindrome($text) {
 
 $result = isPalindrome('A Santa at NASA' );
 echo $result ? 'true' : 'false';
+
+//OUTPUT : true
